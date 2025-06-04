@@ -2,14 +2,20 @@
   "manifest_version": 3,
   "name": "Gemini 侧边栏",
   "version": "1.0",
-  "description": "点击图标直接打开 Gemini 新标签页",
+  "description": "点击图标复制当前页面链接并打开 Gemini 新标签页",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
-  "permissions": ["tabs"],
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "clipboardWrite",
+    "notifications",
+    "scripting"
+  ],
   "background": {
     "service_worker": "background.js"
   },
