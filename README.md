@@ -4,6 +4,7 @@
 
 点击扩展图标后，直接在新标签页打开 [Gemini](https://gemini.google.com/)。
 并复制你前一个tab的url。 这样你可以快速把url粘贴到gemini中让他总结。 
+
 主要用途是：youtube视频总结，因为g家模型总结视频不需要视频有字幕，而且访问gemini免费。
 
 ## 使用方法
