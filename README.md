@@ -3,7 +3,8 @@
 ## 功能
 
 点击扩展图标后，直接在新标签页打开 [Gemini](https://gemini.google.com/)。
-并复制你前一个tab的url。 这样你可以快速把url粘贴到gemini中让他总结（尤其对youtube视频非常友好）
+并复制你前一个tab的url。 这样你可以快速把url粘贴到gemini中让他总结
+（主要用途是：youtube视频总结，众所周知除google家的模型总结视频都是需要字幕的，只有g家的不需要）
 
 ## 使用方法
 
